@@ -1,5 +1,6 @@
 # BDND_TI_OHTLI_XICOTLI
-# Ohtli Xicotlí
+
+# OHTLI XICOTLÍ
 
 > **Videojuego 2D de entretenimiento que conecta a niños con el patrimonio cultural de México**
 
@@ -98,6 +99,11 @@ Desarrollar Ohtli Xicotlí, un videojuego 2D de entretenimiento que conecte a ni
 
 ---
 
+## Organigrama
+
+<img width="1024" height="768" alt="Organigrama" src="https://github.com/user-attachments/assets/69adf6d7-e172-4b92-9774-efa09a3022ad" />
+
+---
 ## Tecnologías Utilizadas
 
 ### Desarrollo
