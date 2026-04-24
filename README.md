@@ -65,11 +65,11 @@ Los niños de **8 a 10 años** juegan constantemente, pero carecen de opciones q
 
 Ohtli Xicotlí surge como una **propuesta pionera** que demuestra que el entretenimiento digital puede ser un vehículo para la visibilidad cultural y ecológica:
 
- **Videojuego divertido:** que integra entornos realistas inspirados en Pueblos Mágicos  
- **Personajes basados en especies nativas:** xicote, aguililla y armadillo 
- **Conexión emocional:** con el patrimonio sin fines de enseñanza explícita  
- **Modelo escalable:** de un Pueblo Mágico a toda la república  
- **Entretenimiento sano:** con arraigo identitario
+ **Videojuego divertido:** que integra entornos realistas inspirados en Pueblos Mágicos.  
+ **Personajes basados en especies nativas:** xicote, aguililla y armadillo.
+ **Conexión emocional:** con el patrimonio sin fines de enseñanza explícita. 
+ **Modelo escalable:** de un Pueblo Mágico a toda la república.
+ **Entretenimiento sano:** con arraigo identitario.
 
 ---
 
