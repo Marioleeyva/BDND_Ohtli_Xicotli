@@ -8,13 +8,13 @@
     <tr>
       <td align="center" width="50%">
         <!-- Logo Empresa -->
-        <img src="Logotipos/XicoLab_LOGO.png" alt="Logo Empresa" width="200"/>
+        <img width="19840" height="8000" alt="XicoLab_LOGO" src="https://github.com/user-attachments/assets/3b6b80f5-b683-4b5e-b996-ab0e64b65934" />
         <br/><br/>
         <strong>Empresa</strong>
       </td>
       <td align="center" width="50%">
         <!-- Logo Videojuego -->
-        <img src="Logotipos/Ohtli_Xicotli_LOGO.png" alt="Logo Videojuego" width="200"/>
+        <img width="6688" height="3809" alt="Ohtli_Xicotli_LOGO" src="https://github.com/user-attachments/assets/f68410e2-fbfe-4184-bc2c-9609b2c1764d" />
         <br/><br/>
         <strong>Logo Videojuego</strong>
       </td>
@@ -98,7 +98,7 @@ Desarrollar Ohtli Xicotlí, un videojuego 2D de entretenimiento que conecte a ni
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Desarrollo
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)]()
