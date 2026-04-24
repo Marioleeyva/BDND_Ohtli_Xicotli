@@ -7,11 +7,13 @@
   <table>
     <tr>
       <td align="center" width="50%">
+        <!-- Logo Empresa -->
         <img src="Logotipos/XicoLab_LOGO.png" alt="Logo Empresa" width="200"/>
         <br/><br/>
         <strong>Empresa</strong>
       </td>
       <td align="center" width="50%">
+        <!-- Logo Videojuego -->
         <img src="Logotipos/Ohtli_Xicotli_LOGO.png" alt="Logo Videojuego" width="200"/>
         <br/><br/>
         <strong>Logo Videojuego</strong>
@@ -47,7 +49,7 @@ GitHub: [@MTI-MarcoRH](https://github.com/MTI-MarcoRH)
 
 ##  Planteamiento del Problema
 
-En México, el **80.9% de los jóvenes** prefiere consumir contenido a través de medios digitales (INEGI, 2025). Sin embargo:
+En México, el **80.9% de los niños** prefiere consumir contenido a través de medios digitales (INEGI, 2025). Sin embargo:
 
 -  La oferta de videojuegos para niños está dominada por producciones extranjeras
 -  Predominan gráficos violentos o personajes estéticos sin narrativa
@@ -93,3 +95,37 @@ Desarrollar Ohtli Xicotlí, un videojuego 2D de entretenimiento que conecte a ni
 -  Identidad visual completa: logo, paleta de colores, tipografía y guía de estilo
 -  Mecánicas de carreras y recolección optimizadas para Unity 2D
 -  Modelo escalable con potencial de expansión a plataformas móviles y realidad aumentada
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+### Desarrollo
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)]()
+
+### Lenguajes de Programación
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+### Bases de Datos
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Navicat](https://img.shields.io/badge/Navicat-DC5C1E?style=for-the-badge&logo=navicat&logoColor=white)]()
+
+### Análisis
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
+
+### Diseño
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)]()
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)]()
+[![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)]()
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=black)]()
+
+### Control de Versiones
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
+### Apoyo IA
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)]()
+[![Adobe Firefly](https://img.shields.io/badge/Adobe_Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white)]()
